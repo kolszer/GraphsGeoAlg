@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MaxPoints", "MaxPoints\MaxP
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IntervalTree", "IntervalTree\IntervalTree.csproj", "{B82100D5-5968-4405-8425-33D572B2C315}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BitonicTSP", "BitonicTSP\BitonicTSP.csproj", "{519324EB-A94F-4905-AFA5-1AB99765FDF8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KCenter", "KCenter\KCenter.csproj", "{DA1C6B3F-F78F-45E1-9034-24037F936A64}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{B82100D5-5968-4405-8425-33D572B2C315}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{B82100D5-5968-4405-8425-33D572B2C315}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{B82100D5-5968-4405-8425-33D572B2C315}.Release|Any CPU.Build.0 = Release|Any CPU
+		{519324EB-A94F-4905-AFA5-1AB99765FDF8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{519324EB-A94F-4905-AFA5-1AB99765FDF8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{519324EB-A94F-4905-AFA5-1AB99765FDF8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{519324EB-A94F-4905-AFA5-1AB99765FDF8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DA1C6B3F-F78F-45E1-9034-24037F936A64}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DA1C6B3F-F78F-45E1-9034-24037F936A64}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DA1C6B3F-F78F-45E1-9034-24037F936A64}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DA1C6B3F-F78F-45E1-9034-24037F936A64}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
